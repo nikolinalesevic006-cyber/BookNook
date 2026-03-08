@@ -1,5 +1,4 @@
 # BookNook
- BookNook platforma ima zadatak da pruži najjednostavniji mogući način za razmenu studentskih knjiga. 
 
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
